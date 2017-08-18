@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-amqp-client-demo",
+  "version": "1.0.0",
+  "description": "amqp demonstration with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jforge/nodejs-amqp-client-demo.git"
+  },
+  "keywords": [
+    "amqp",
+    "node",
+    "messaging",
+    "rabbitmq"
+  ],
+  "author": "jforge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jforge/nodejs-amqp-client-demo/issues"
+  },
+  "homepage": "https://github.com/jforge/nodejs-amqp-client-demo#readme",
+  "dependencies": {
+    "amqp": "0.2.6"
+  }
+}
